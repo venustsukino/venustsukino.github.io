@@ -7,6 +7,8 @@ projects  looking at cybersecurity from a French perspective, from post-quantum
 cryptography to corporate risk governance. I'm now looking to move into cyber security 
 consulting or cyber risk work.
 
+The full versions of these projects are available upon request.
+
 ## Projects
 - [Evaluating French Encryption Standards](encryption-standards.md)
 - [Integrating Cyber Risk into Strategic Governance](cyber-governance.md)
