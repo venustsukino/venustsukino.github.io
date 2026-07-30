@@ -1,4 +1,4 @@
-# Ellie Hammett — Cybersecurity Portfolio
+# Ellie Hammett - Cybersecurity Portfolio
 
 I'm a first-class mathematics with French graduate from the University of Sheffield, 
 with a focus on cryptography and cyber risk. My degree took me on a year abroad at the 
