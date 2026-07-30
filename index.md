@@ -9,3 +9,4 @@ consulting or cyber risk work.
 
 ## Projects
 - [Evaluating French Encryption Standards](encryption-standards.md)
+- [Integrating Cyber Risk into Strategic Governance](cyber-governance.md)
