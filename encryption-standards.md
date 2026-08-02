@@ -15,22 +15,22 @@ year at university was the first in-depth exposure I had to cyber security.
 - Researched how quantum computing threatens widely-used encryption methods like RSA, 
   and evaluated France's national post-quantum cryptography strategy (led by ANSSI, 
   backed by €1.8bn in funding, €150m specifically for post-quantum research)
-- Compared France's approach to the UK, US, and Germany
+- Compared France's approach to the UK, US and Germany
 - Delivered a spoken presentation to a non-specialist audience comparing UK and French 
   cybersecurity legislation
 
 ## Key findings
 - **Current breaches**: France's average breach cost has remained stable (~$4.3M) for five 
-  years, suggesting existing regulation focuses on breach *response* rather than prevention. 
+  years, suggesting existing regulation focuses on breach response rather than prevention. 
   The real gap is cybersecurity awareness among employees, not weak encryption standards.
 - **Quantum threat**: No country is yet protected against future quantum decryption, but 
-  France is comparatively well-prepared — its three-phase ANSSI migration plan is more 
+  France is comparatively well-prepared - its three-phase ANSSI migration plan is more 
   detailed than the UK's or US's, and its research is led by public institutions (CNRS, CEA, 
   Inria) rather than intelligence agencies, unlike the UK's GCHQ-led approach.
 
 ## Why it matters
 This project highlighted a key tension in cybersecurity policy: the encryption technology 
-itself is often not the weakest link — human behaviour is. It also showed how governments 
+itself is often not the weakest link, but human behaviour is. It also showed how governments 
 are racing to future-proof national data security ahead of quantum computing becoming a 
 practical threat, and how national approaches (public research vs. intelligence-led) shape 
 who has access to breakthroughs.
