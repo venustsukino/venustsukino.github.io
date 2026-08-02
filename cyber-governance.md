@@ -25,13 +25,13 @@ into a strategic, systemic, and increasingly political one.
   industry, while nation-state cyberattacks increasingly blur into acts of war, prompting 
   stricter regulation of critical infrastructure operators (OIV) in France
 - **Governance gaps**: A recurring structural weakness is CISOs reporting to IT directors 
-  rather than sitting at board/strategic level — a conflict of interest that risks 
+  rather than sitting at board/strategic level - a conflict of interest that risks 
   cybersecurity being deprioritised in favour of technical productivity
 - **Human factor**: Despite strong technological investment, social engineering accounts 
   for over 60% of reported cyber claims in France, showing that governance and culture 
   matter as much as technical defences
 - **Physical–cyber link**: A 2022 fibre-optic cable-cutting attack in Île-de-France 
-  highlighted how physical security gaps can undermine cyber resilience — a link the new 
+  highlighted how physical security gaps can undermine cyber resilience - a link the new 
   ReCyF framework now formally addresses
 
 ## Why it matters
